@@ -5,7 +5,8 @@ Contract address: n1wTF3Y2d1nteJ5awuLcdNxeMu1cnATMcSg
 
 https://wallet.nasscan.io/contract.html
 ![image](https://ws3.sinaimg.cn/large/006tKfTcly1fre5n13on6j31kw0ssagc.jpg)
-# index.html 主页呈现
+
+# index.html 主页呈现方式
 ```
 <!DOCTYPE html>
 <html>
