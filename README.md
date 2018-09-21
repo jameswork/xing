@@ -4,9 +4,9 @@
 
 https://wallet.nasscan.io/contract.html
 
-TX Hash: 127fd2f6ee3a2e3dc1626a4451c2980791812ef2472203a806f48d8c43fda1f7
+TX Hash: 7c17a97c2a7e7c978a619b5a6dd78cc3e4ff7c73ccef6ef133efd65f9490d9d4
 
-Contract address: n1wTF3Y2d1nteJ5awuLcdNxeMu1cnATMcSg
+Contract address: n1ykeNR9Gd31VyLW2SL1cFwxZwoxagX7pUS
 
 # index.html 主页呈现方式
 ```
